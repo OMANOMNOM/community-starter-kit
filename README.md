@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+* this is a bot 
+* It greets new developers who help this repo 
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* stuff 
+* more stuff
 
 ## Getting started
 
